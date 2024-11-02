@@ -1,3 +1,5 @@
 Andrés Chica
 Edad: 16 años
 Aspiraciones: Aprender POO y comprenderlo de manera completa para aplicarlo a problemas que surjan como profesional
+Logré hacer commit porque la carpeta ya no está vacía, ya que tiene el archivo respuesta.txt
+Es importante tener cuidado al editar archivos desde diferentes ubicaciones porque podremos borrar nuestro valioso trabajo o el de otro colaborador
